@@ -1,0 +1,12 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:width="18dp"
+android:height="18dp"
+android:viewportWidth="18"
+android:viewportHeight="18"
+android:tint="?attr/colorControlNormal">
+<item
+    android:width="18dp"
+    android:height="18dp" android:drawable="@drawable/img_search"
+    />
+</layer-list>

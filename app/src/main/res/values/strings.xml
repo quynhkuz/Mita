@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Mita</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="account">Tài khoản</string>
+    <string name="password">Mật khẩu</string>
+    <string name="loggin">Đăng nhập</string>
+    <string name="username_not_empty">Trường này là bắt buộc</string>
+    <string name="login_success">Đăng nhập thành công</string>
+    <string name="login">Đăng nhập</string>
+    <string name="login_phone_lable">Số điện thoại</string>
+    <string name="login_phone_hint">+84 369645387</string>
+    <string name="login_password_lable">Mật khẩu</string>
+    <string name="auth_forgot_password">Quên mật khẩu</string>
+    <string name="help_by_us">Help by globits</string>
+    <string name="auth_login">Đăng nhập</string>
+    <string name="no_account">Lưu tài khảon</string>
+    <string name="login_signup_password_hint">abcxyz</string>
+    <string name="login_fail">Đăng nhập thất bại</string>
+    <string name="close">Đóng</string>
+    <string name="retry">Thử lại</string>
+    <string name="date_invalid">Ngày không hợp lệ</string>
+    <string name="code_invalid">Mã QR không hợp lệ</string>
+    <string name="title_activity_treatment">Treatment</string>
+    <string name="user_name">Tên đăng nhập</string>
+    <string name="a11y_show_password">Hiện mật khẩu</string>
+    <string name="a11y_hide_password">Ẩn mật khẩu</string>
+    <string name="title_home">Home</string>
+    <string name="title_note">Ghi chú</string>
+    <string name="title_notifications">Thông báo</string>
+    <string name="title_setting">Cài đặt</string>
+    <string name="agree">Đồng ý</string>
+</resources>

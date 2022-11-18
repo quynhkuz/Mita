@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="AppTheme.Launcher" parent="AppTheme.Launcher.Base" />
+
+    <style name="AppTheme.Launcher.Base" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/img_icon_splash_mita</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="colorPrimaryDark">#15171B</item>
+    </style>
+
+    <style name="QltsInputLayoutLogin" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense">
+        <item name="boxCornerRadiusTopStart">16dp</item>
+        <item name="boxCornerRadiusTopEnd">16dp</item>
+        <item name="boxCornerRadiusBottomStart">16dp</item>
+        <item name="boxCornerRadiusBottomEnd">16dp</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="boxBackgroundColor">@color/white</item>
+        <item name="strokeColor">@color/background_edit_text</item>
+    </style>
+
+    <style name="QltsButtonLogin">
+        <item name="cornerRadius">24dp</item>
+    </style>
+
+    <style name="DropDownLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense.ExposedDropdownMenu">
+        <item name="boxCornerRadiusBottomStart">8dp</item>
+        <item name="boxCornerRadiusBottomEnd">8dp</item>
+        <item name="boxCornerRadiusTopStart">8dp</item>
+        <item name="boxCornerRadiusTopEnd">8dp</item>
+        <item name="boxBackgroundColor">@color/white</item>
+    </style>
+
+    <style name="commonTextInput">
+        <item name="android:paddingVertical" tools:targetApi="o">12dp</item>
+    </style>
+
+    <style name="textInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense">
+        <item name="boxCornerRadiusBottomStart">8dp</item>
+        <item name="boxCornerRadiusBottomEnd">8dp</item>
+        <item name="boxCornerRadiusTopStart">8dp</item>
+        <item name="boxCornerRadiusTopEnd">8dp</item>
+        <item name="boxBackgroundColor">@color/white</item>
+    </style>
+
+    <style name="Vector.TextInputLayout.Login" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense">
+        <item name="boxCornerRadiusBottomStart">10dp</item>
+        <item name="boxCornerRadiusBottomEnd">10dp</item>
+        <item name="boxCornerRadiusTopStart">10dp</item>
+        <item name="boxCornerRadiusTopEnd">10dp</item>
+        <item name="boxStrokeColor">@color/background_edit_text</item>
+        <item name="boxBackgroundColor">@color/white</item>
+        <item name="startIconTint">@color/primary_color</item>
+    </style>
+
+    <style name="LoginLabel">
+        <item name="android:textSize">15sp</item>
+        <item name="android:fontFamily">@font/nunito_sans_regular</item>
+        <item name="android:textColor">@color/primary_color</item>
+
+    </style>
+
+    <style name="LoginTitle">
+        <item name="android:textSize">32sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/primary_color</item>
+    </style>
+
+    <style name="CommonTextInputLogin">
+        <item name="android:paddingVertical" tools:targetApi="o">12dp</item>
+        <item name="android:height">@dimen/_56sdp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">@font/nunito_sans_regular</item>
+        <item name="android:backgroundTint">#F9FAFB</item>
+        <item name="fontWeight">400</item>
+        <item name="android:textColorHint">@color/primary_color</item>
+
+    </style>
+
+    <style name="Style.Vector.Login.Button" parent="VectorButtonStyle">
+        <item name="android:minHeight">58dp</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <style name="VectorButtonStyle" parent="Widget.MaterialComponents.Button">
+        <!--        <item name="backgroundTint">@color/button_background_tint_selector</item>-->
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">16dp</item>
+        <item name="android:minWidth">94dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:fontFamily">@font/nunito_sans_semi_bold</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textAllCaps">true</item>
+        <!--        <item name="android:textColor">@color/button_text_color_selector</item>-->
+        <item name="cornerRadius">16dp</item>
+        <item name="android:letterSpacing">0.02</item>
+
+    </style>
+    <style name="TextBold">
+        <item name="android:fontFamily">@font/nunito_sans_semi_bold</item>
+        <item name="android:textColor">#F3000000</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+</resources>

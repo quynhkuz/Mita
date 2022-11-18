@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.security.LoginActivity">
+    <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/frame_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+<!--    <LinearLayout-->
+<!--        android:id="@+id/waiting_view"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:background="#66AAAAAA"-->
+<!--     -->
+<!--        android:clickable="false"-->
+<!--        android:focusable="false"-->
+<!--        android:visibility="visible"-->
+<!--        android:gravity="center">-->
+
+<!--        <ProgressBar-->
+<!--            android:layout_gravity="center"-->
+<!--            android:id="@+id/loginProgressBar"-->
+<!--            android:layout_width="60dp"-->
+<!--            android:layout_height="60dp" />-->
+
+<!--    </LinearLayout>-->
+    <include
+        android:id="@+id/waiting_view"
+        layout="@layout/merge_overlay_waiting_view" />
+</androidx.constraintlayout.widget.ConstraintLayout>

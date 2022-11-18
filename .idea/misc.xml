@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Mita_oct_v2/app/src/main/res/drawable/img_note_new.xml" value="0.1535" />
+        <entry key="..\:/Mita_oct_v2/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Mita_oct_v2/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Mita_oct_v2/app/src/main/res/layout/activity_nursing.xml" value="0.25416666666666665" />
+        <entry key="..\:/Mita_oct_v2/app/src/main/res/layout/activity_treatment.xml" value="0.1890625" />
+        <entry key="..\:/Mita_oct_v2/app/src/main/res/layout/fragment_note.xml" value="0.18055555555555555" />
+        <entry key="..\:/Mita_oct_v2/app/src/main/res/layout/fragment_notification.xml" value="0.1648148148148148" />
+        <entry key="..\:/Mita_oct_v2/app/src/main/res/layout/fragment_setting.xml" value="0.18055555555555555" />
+        <entry key="..\:/Mita_oct_v2/app/src/main/res/menu/bottom_nav_menu.xml" value="0.24351851851851852" />
+        <entry key="..\:/Mita_oct_v2/app/src/main/res/mipmap-anydpi-v26/mita_logo.xml" value="0.134" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/drawable-anydpi/backgound_app.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/drawable-anydpi/ic_add.xml" value="0.126" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/drawable-anydpi/ic_eye.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/drawable-anydpi/ic_person.xml" value="0.136" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/drawable-hdpi/background_dialog.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/drawable-hdpi/ic_eye.xml" value="0.105" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/drawable-hdpi/ic_hidden_password.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/drawable-hdpi/ic_passwrod.xml" value="0.105" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/drawable-hdpi/ic_search.xml" value="0.1275" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/drawable-hdpi/ic_show_password.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/drawable-mdpi/line_login.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1045" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/drawable/backgound_box.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/drawable/background_button.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/drawable/background_item_home.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/drawable/background_login.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1045" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/drawable/ic_user_name.xml" value="0.105" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/drawable/qr_button.xml" value="0.1045" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/layout/_item_list_inventory.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/layout/_notifi_dialog_scanner.xml" value="0.14791666666666667" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/layout/activity_assign.xml" value="0.146875" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/layout/activity_nursing.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/layout/activity_pacs.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/layout/activity_treatment.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/layout/background_dialog.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/layout/choose_user.xml" value="0.11145833333333334" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/layout/dialog_show_error.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/layout/fragment_assign.xml" value="0.13697916666666668" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/layout/fragment_home.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/layout/fragment_list_patient.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/layout/fragment_login.xml" value="0.1619047619047619" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/layout/fragment_mita.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/layout/fragment_note.xml" value="0.16145833333333334" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/layout/fragment_notification.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/layout/fragment_nursing.xml" value="0.11354166666666667" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/layout/fragment_p_a_c_s.xml" value="0.13697916666666668" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/layout/fragment_patient_info.xml" value="0.16145833333333334" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/layout/fragment_setting.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/layout/fragment_splass.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/layout/fragment_treatment.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/layout/fragment_treatment_info_patient.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/layout/item_loading_state.xml" value="0.14791666666666667" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/layout/item_simple_list.xml" value="0.14791666666666667" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/layout/merge_overlay_waiting_view.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Mita2/app/src/main/res/menu/bottom_nav_menu.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/QLTS_OCT/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/QLTS_OCT/app/src/main/res/layout/fragment_login.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/huycn/AndroidStudioProjects/Qlts/app/src/main/res/drawable-anydpi/background_item_home.xml" value="0.168" />
+        <entry key="..\:/Users/huycn/AndroidStudioProjects/Qlts/app/src/main/res/drawable-anydpi/ic_add.xml" value="0.1895" />
+        <entry key="..\:/Users/huycn/AndroidStudioProjects/Qlts/app/src/main/res/drawable-anydpi/ic_eye.xml" value="0.199" />
+        <entry key="..\:/Users/huycn/AndroidStudioProjects/Qlts/app/src/main/res/drawable-anydpi/ic_lock.xml" value="0.161" />
+        <entry key="..\:/Users/huycn/AndroidStudioProjects/Qlts/app/src/main/res/drawable-anydpi/ic_qr.xml" value="0.1895" />
+        <entry key="..\:/Users/huycn/AndroidStudioProjects/Qlts/app/src/main/res/drawable-anydpi/ic_remove.xml" value="0.2115" />
+        <entry key="..\:/Users/huycn/AndroidStudioProjects/Qlts/app/src/main/res/drawable-hdpi/background_button.xml" value="0.185" />
+        <entry key="..\:/Users/huycn/AndroidStudioProjects/Qlts/app/src/main/res/drawable-hdpi/ic_calendar.xml" value="0.1785" />
+        <entry key="..\:/Users/huycn/AndroidStudioProjects/Qlts/app/src/main/res/drawable-xhdpi/qr_button.xml" value="0.1895" />
+        <entry key="..\:/Users/huycn/AndroidStudioProjects/Qlts/app/src/main/res/drawable/backgound_box.xml" value="0.168" />
+        <entry key="..\:/Users/huycn/AndroidStudioProjects/Qlts/app/src/main/res/drawable/background_button.xml" value="0.1895" />
+        <entry key="..\:/Users/huycn/AndroidStudioProjects/Qlts/app/src/main/res/drawable/background_item_home.xml" value="0.168" />
+        <entry key="..\:/Users/huycn/AndroidStudioProjects/Qlts/app/src/main/res/drawable/background_login.xml" value="0.2115" />
+        <entry key="..\:/Users/huycn/AndroidStudioProjects/Qlts/app/src/main/res/drawable/ic_launcher_background.xml" value="0.168" />
+        <entry key="..\:/Users/huycn/AndroidStudioProjects/Qlts/app/src/main/res/drawable/list_item_divider.xml" value="0.1895" />
+        <entry key="..\:/Users/huycn/AndroidStudioProjects/Qlts/app/src/main/res/layout/_item_asset.xml" value="0.5" />
+        <entry key="..\:/Users/huycn/AndroidStudioProjects/Qlts/app/src/main/res/layout/_item_list_inventory.xml" value="0.5" />
+        <entry key="..\:/Users/huycn/AndroidStudioProjects/Qlts/app/src/main/res/layout/_notifi_dialog_scanner.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/huycn/AndroidStudioProjects/Qlts/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/huycn/AndroidStudioProjects/Qlts/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/huycn/AndroidStudioProjects/Qlts/app/src/main/res/layout/choose_user.xml" value="0.33" />
+        <entry key="..\:/Users/huycn/AndroidStudioProjects/Qlts/app/src/main/res/layout/fragment__list_inventory_fragment.xml" value="0.33" />
+        <entry key="..\:/Users/huycn/AndroidStudioProjects/Qlts/app/src/main/res/layout/fragment_add_allocation.xml" value="0.33" />
+        <entry key="..\:/Users/huycn/AndroidStudioProjects/Qlts/app/src/main/res/layout/fragment_add_inventory.xml" value="0.2824207492795389" />
+        <entry key="..\:/Users/huycn/AndroidStudioProjects/Qlts/app/src/main/res/layout/fragment_add_liquidation.xml" value="0.33" />
+        <entry key="..\:/Users/huycn/AndroidStudioProjects/Qlts/app/src/main/res/layout/fragment_add_move.xml" value="0.1" />
+        <entry key="..\:/Users/huycn/AndroidStudioProjects/Qlts/app/src/main/res/layout/fragment_add_repair.xml" value="0.33" />
+        <entry key="..\:/Users/huycn/AndroidStudioProjects/Qlts/app/src/main/res/layout/fragment_add_transfer.xml" value="0.25" />
+        <entry key="..\:/Users/huycn/AndroidStudioProjects/Qlts/app/src/main/res/layout/fragment_allocation.xml" value="0.34611602753195675" />
+        <entry key="..\:/Users/huycn/AndroidStudioProjects/Qlts/app/src/main/res/layout/fragment_asset_info.xml" value="0.22" />
+        <entry key="..\:/Users/huycn/AndroidStudioProjects/Qlts/app/src/main/res/layout/fragment_home.xml" value="0.4992503748125937" />
+        <entry key="..\:/Users/huycn/AndroidStudioProjects/Qlts/app/src/main/res/layout/fragment_list_liquidation.xml" value="0.25" />
+        <entry key="..\:/Users/huycn/AndroidStudioProjects/Qlts/app/src/main/res/layout/fragment_list_moveaway.xml" value="0.2782258064516129" />
+        <entry key="..\:/Users/huycn/AndroidStudioProjects/Qlts/app/src/main/res/layout/fragment_list_repair.xml" value="0.5" />
+        <entry key="..\:/Users/huycn/AndroidStudioProjects/Qlts/app/src/main/res/layout/fragment_list_transfer.xml" value="0.33" />
+        <entry key="..\:/Users/huycn/AndroidStudioProjects/Qlts/app/src/main/res/layout/fragment_login.xml" value="0.25" />
+        <entry key="..\:/Users/huycn/AndroidStudioProjects/Qlts/app/src/main/res/layout/fragment_splass.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/huycn/AndroidStudioProjects/Qlts/app/src/main/res/layout/item_list_allocation.xml" value="0.5456852791878173" />
+        <entry key="..\:/Users/huycn/AndroidStudioProjects/Qlts/app/src/main/res/layout/item_list_move.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/huycn/AndroidStudioProjects/Qlts/app/src/main/res/layout/item_list_repair.xml" value="0.25" />
+        <entry key="..\:/Users/huycn/AndroidStudioProjects/Qlts/app/src/main/res/layout/item_list_transfer.xml" value="0.5" />
+        <entry key="..\:/Users/huycn/AndroidStudioProjects/Qlts/app/src/main/res/layout/item_list_user.xml" value="0.33" />
+        <entry key="..\:/Users/huycn/AndroidStudioProjects/Qlts/app/src/main/res/layout/item_loading_state.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/huycn/AndroidStudioProjects/Qlts/app/src/main/res/layout/item_simple_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/huycn/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_list_item_1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/huycn/Downloads/gradle-6.7.1/caches/transforms-3/8e48ba40557d439a028f6b43661eec41/transformed/material-1.3.0/res/drawable/mtrl_ic_error.xml" value="0.157" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

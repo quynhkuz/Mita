@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.globits.mita">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NOTIFICATION_POLICY" />
+
+
+    <application
+        android:name="com.globits.mita.MitaApplication"
+        android:allowBackup="false"
+        android:icon="@mipmap/mita_logo_foreground"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/mita_logo_foreground"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.mita"
+        android:usesCleartextTraffic="true">
+
+
+        <activity
+            android:theme="@style/Theme.mita.NoActionBar"
+            android:name=".ui.pacs.PacsActivity"
+            android:exported="false" />
+        <activity
+            android:theme="@style/Theme.mita.NoActionBar"
+            android:name=".ui.assign.AssignActivity"
+            android:exported="false" />
+        <activity
+            android:theme="@style/Theme.mita.NoActionBar"
+            android:name=".ui.nursing.NursingActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.treatment.TreatmentActivity"
+            android:exported="false"
+            android:label="@string/title_activity_treatment"
+            android:theme="@style/Theme.mita.NoActionBar" />
+        <activity
+            android:name=".ui.security.LoginActivity"
+            android:exported="true"
+            android:theme="@style/AppTheme.Launcher">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".ui.MainActivity"
+            android:exported="true"
+            android:theme="@style/Theme.mita.NoActionBar" />
+
+
+
+    </application>
+
+</manifest>
